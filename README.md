@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about Deep Learning and Backend Eng
 - 🔭 I’m currently working on exciting deep learning and backend engineering projects.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about anything related to my tech stack.
-- 📫 How to reach me: [Your Email](aryanpauljubcse25@gmail.com
+- 📫 How to reach me: [Email](aryanpauljubcse25@gmail.com
 ) | [LinkedIn](https://www.linkedin.com/in/aryan-paul-b67887218/)
 - ⚡ Fun fact: I love solving complex problems and building scalable systems.
 <!--
